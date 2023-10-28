@@ -3,8 +3,8 @@
         "name": "Squats",
         "shortDescription": "Stand tall, squat deep.",
         "detailedDescription": "POSITION: Stand with feet hip-width apart, hands on hips. MOVEMENT: Lower your body into a squat, then rise up. FOCUS: Keep your back straight and knees over toes.",
-        "image": "squats-exercise-illustration-spotebi.jpeg",
-        "gif": "",
+        "image": "squat-exercise-illustration.jpeg",
+        "gif": "squat-exercise-illustration.gif",
         "muscleGroup": [
             "LEGS"
         ],

@@ -111,12 +111,14 @@ document.addEventListener("DOMContentLoaded", function () {
     function displayExercise() {
         const exercise = getCurrentExercise();
         exerciseDescription.textContent = exercise.description;
-        exerciseImage.src = exercise.image;
+        const src = `images/${exercise.gif}`;
+        console.log("displayExercise:", exercise);
+        exerciseImage.src = src;
         exerciseContainer.querySelector("h2").textContent = `Exercise ${currentExerciseIndex + 1}`;
     }
 
     function startTimer(duration) {
-        let seconds = duration * 5;
+        let seconds = duration * 3;
         workoutTimer = setInterval(function () {
             const minutes = Math.floor(seconds / 60);
             const remainingSeconds = seconds % 60;
@@ -160,9 +162,6 @@ document.addEventListener("DOMContentLoaded", function () {
         // You can use Math.random() and select random exercises
         // Return an array of exercise objects
         console.log("generateRandomExercises:", count);
-
-        exercises = [exercise1, exercise2, exercise3, exercise4];
-
         // For example, generate a random exercise
         const randomExercise = exercises[Math.floor(Math.random() * exercises.length)];
         // Use the randomExercise object in your workout logic
@@ -171,8 +170,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function loadJsonn() {
-
-        fetch('db.json') // Replace with the actual URL of your JSON file
+        fetch('https://raw.githubusercontent.com/a-blekot/exercises_web/main/db.json') // Replace with the actual URL of your JSON file
             .then((response) => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
@@ -180,34 +178,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 return response.json(); // Parse the JSON response
             })
             .then((jsonArray) => {
-                // Parse the JSON data into an array
-                exercises = JSON.parse(data);
-
                 // Now you can work with jsonArray as an array
-                console.log('Loaded JSON data as an array:', jsonArray);
-                // resultDiv.textContent = JSON.stringify(jsonArray, null, 2);
+                exercises = jsonArray;
+                console.log('exercise.size:', exercises.length);
             })
             .catch((error) => {
                 console.error('Error loading JSON:', error);
             });
-
-        // // Read the JSON file
-        // fs.readFile('db.json', 'utf8', (err, data) => {
-        //     if (err) {
-        //         console.error('Error reading JSON file:', err);
-        //         return;
-        //     }
-
-        //     try {
-        //         // Parse the JSON data into an array
-        //         exercises = JSON.parse(data);
-
-        //         // Now you can work with the jsonArray as an array
-        //         console.log('Loaded JSON data as an array:', exercises[1]);
-        //     } catch (error) {
-        //         console.error('Error parsing JSON:', error);
-        //     }
-        // });
     }
 
     loadJsonn();
