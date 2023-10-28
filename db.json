@@ -1,0 +1,3887 @@
+[
+    {
+        "name": "Squats",
+        "shortDescription": "Stand tall, squat deep.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart, hands on hips. MOVEMENT: Lower your body into a squat, then rise up. FOCUS: Keep your back straight and knees over toes.",
+        "image": "squats-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "HARD",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Wall Sit",
+        "shortDescription": "Sit against wall, hold.",
+        "detailedDescription": "POSITION: Stand with back against a wall, feet shoulder-width. MOVEMENT: Slide down until thighs are parallel. FOCUS: Engage core and press back against wall.",
+        "image": "wall-sit-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "WALL"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Lunges",
+        "shortDescription": "Step forward, lower body.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Take a step forward, lowering your body into a lunge position. Return and switch legs. FOCUS: Maintain balance, keep the front knee over the ankle.",
+        "image": "lunges-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Calf Raises",
+        "shortDescription": "Lift heels, lower slowly.",
+        "detailedDescription": "POSITION: Stand with feet hip-width, hands on hips. MOVEMENT: Lift heels high then lower them slowly. FOCUS: Contract calves at the top and maintain balance.",
+        "image": "calf-raises-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Plank",
+        "shortDescription": "Hold a plank position.",
+        "detailedDescription": "POSITION: Face down, elbows under shoulders, legs extended. MOVEMENT: Hold your body up, keeping a straight line from head to heels. FOCUS: Engage your core, squeeze glutes.",
+        "image": "plank-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Bent Over Rows",
+        "shortDescription": "Pull weights to hips.",
+        "detailedDescription": "POSITION: Stand with feet shoulder-width, holding dumbbells. Bend over slightly. MOVEMENT: Pull the dumbbells to your hips. FOCUS: Squeeze shoulder blades together.",
+        "image": "bent-over-rows-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "BACK"
+        ],
+        "inventory": [
+            "DUMBBELLS_1_5"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Push Ups",
+        "shortDescription": "Lower body, push up.",
+        "detailedDescription": "POSITION: Hands shoulder-width apart, body in straight line. MOVEMENT: Lower your body until chest touches the floor, then push up. FOCUS: Keep body straight and core tight.",
+        "image": "push-ups-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "CHEST"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "HARD",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "180 Jump Squat",
+        "shortDescription": "Jump and rotate 180°.",
+        "detailedDescription": "POSITION: Begin in a squat. MOVEMENT: Jump up, rotating 180° to face the opposite direction. Land in a squat. FOCUS: Soft landing, explosive jump.",
+        "image": "180-jump-squat-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "HARD",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Alternating Dumbbell Swing",
+        "shortDescription": "Swing dumbbell up and down.",
+        "detailedDescription": "POSITION: Stand with feet hip-width. MOVEMENT: Hold a dumbbell with both hands, swing it up as you stand, and then swing down as you squat. Alternate hands. FOCUS: Use hips for momentum.",
+        "image": "alternating-dumbbell-swing-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "DUMBBELLS_1_5"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Alternating Side Lunge",
+        "shortDescription": "Lunge side-to-side.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Step out to the right and lunge. Return to center and then step out to the left and lunge. FOCUS: Keep chest up and push hips back.",
+        "image": "alternating-side-lunge-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Alternating Side Lunge Touch",
+        "shortDescription": "Side lunge with touch.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Step out to the right into a side lunge, touching left hand to right foot. Return and switch sides. FOCUS: Engage core and maintain balance.",
+        "image": "alternating-side-lunge-touch-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Ankle Circles",
+        "shortDescription": "Rotate your ankles.",
+        "detailedDescription": "POSITION: Sit or stand. MOVEMENT: Lift one foot and rotate the ankle in a circular motion. Switch after some time. FOCUS: Smooth rotations, stretch the ankle.",
+        "image": "ankle-circles-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": true,
+        "duration": 30
+    },
+    {
+        "name": "Ankle Hops",
+        "shortDescription": "Hop using your ankles.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Using only your ankle's strength, hop lightly off the ground. FOCUS: Minimal knee bending, work the calves.",
+        "image": "ankle-hops-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "LIGHT",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Arms Cross Side Lunge",
+        "shortDescription": "Side lunge with arm cross.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Step to the side into a lunge, simultaneously crossing your arms in front of your chest. Return to center and switch sides. FOCUS: Keep chest up and engage core.",
+        "image": "arms-cross-side-lunge-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Bear Squat",
+        "shortDescription": "Squat with hands in front.",
+        "detailedDescription": "POSITION: Begin in a squat with hands on the floor. MOVEMENT: Push hips up, straightening legs, then return to squat. FOCUS: Deep stretch in hamstrings, keep hands planted.",
+        "image": "bear-squat-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRETCH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Boxer Squat Punch",
+        "shortDescription": "Squat with alternating punches.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart. MOVEMENT: Squat down and as you come up, throw a punch with one arm. Alternate arms with each squat. FOCUS: Engage core, explosive punch.",
+        "image": "boxer-squat-punch-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "HARD",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Bulgarian Split Squat",
+        "shortDescription": "Lunge with rear foot elevated.",
+        "detailedDescription": "POSITION: Stand in front of a sofa. Place one foot on the sofa behind you. MOVEMENT: Lower into a lunge, keeping chest up. Switch legs after set. FOCUS: Deep lunge, front knee over ankle.",
+        "image": "bulgarian-split-squat-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "SOFA"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "HARD",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Burpees",
+        "shortDescription": "Full body explosive exercise.",
+        "detailedDescription": "POSITION: Start in standing. MOVEMENT: Drop to a squat, kick feet back into a plank, perform a push-up, jump feet back to squat, and explode up jumping into the air. FOCUS: Engage core throughout and maintain rhythm.",
+        "image": "burpees-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "HARD",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Butterfly Stretch",
+        "shortDescription": "Inner thigh seated stretch.",
+        "detailedDescription": "POSITION: Sit with soles of feet together. MOVEMENT: Gently push knees towards the floor using elbows. FOCUS: Feel a stretch in the inner thighs. Keep back straight.",
+        "image": "butterfly-stretch-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": true,
+        "duration": 60
+    },
+    {
+        "name": "Calf Raises",
+        "shortDescription": "Strengthening calves.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Rise onto the balls of your feet and then lower back down. FOCUS: Engage the calf muscles. Try not to sway forward or backward.",
+        "image": "calf-raises-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Calf Stretch",
+        "shortDescription": "Stretch for calf muscles.",
+        "detailedDescription": "POSITION: Face a wall. MOVEMENT: Step one foot back and press heel into the ground, keeping the back leg straight. FOCUS: Feel a stretch in the calf of the back leg. Keep both heels on the ground.",
+        "image": "calf-stretch-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "WALL"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": true,
+        "duration": 60
+    },
+    {
+        "name": "Circles in the Sky",
+        "shortDescription": "Leg circles lying down.",
+        "detailedDescription": "POSITION: Lie on your back. MOVEMENT: Lift one leg straight up and make circles in the air. Switch directions after a few circles. FOCUS: Keep the movement controlled. Engage core.",
+        "image": "circles-in-the-sky-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Core Control Rear Lunge",
+        "shortDescription": "Lunge with core focus.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Step back into a lunge. Keep chest up and engage core. FOCUS: Control movement and keep core tight.",
+        "image": "core-control-rear-lunge-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS",
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Cossack Squat",
+        "shortDescription": "Wide stance squat.",
+        "detailedDescription": "POSITION: Wide stance. MOVEMENT: Squat to one side keeping the other leg straight. FOCUS: Keep chest up and engage core. Push hips back.",
+        "image": "cossack-squat-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "Cross Jacks",
+        "shortDescription": "Crossing jump jacks.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Jump and cross legs while crossing arms. Return to start and repeat. FOCUS: Engage core and maintain rhythm.",
+        "image": "cross-jacks-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS",
+            "CHEST",
+            "BACK"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Curtsy Lunge",
+        "shortDescription": "Lunge with diagonal step.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Step back diagonally into a lunge. Return to start. FOCUS: Keep chest up and core engaged. Push off front heel.",
+        "image": "curtsy-lunge-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Curtsy Lunge Kick Raise",
+        "shortDescription": "Lunge with leg raise.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Perform a curtsy lunge, then kick the back leg to the side as you stand up. FOCUS: Keep core engaged and control the kick.",
+        "image": "curtsy-lunge-kick-raise-exercise-illustration-spotebi.jpeg",
+        "gif": "",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "Curtsy Lunge Side Kick",
+        "shortDescription": "Lunge to side kick.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Do a curtsy lunge, then as you stand, kick out to the side. FOCUS: Core engagement, control during the kick.",
+        "image": "curtsy-lunge-side-kick-exercise-illustration-spotebi.jpeg",
+        "gif": "curtsy-lunge-side-kick-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "Diamond Kicks",
+        "shortDescription": "Legs forming diamond.",
+        "detailedDescription": "POSITION: Lay on back, hands beneath hips. MOVEMENT: Lift legs, bend knees out to sides creating a diamond, then straighten legs. FOCUS: Engage abs, control leg movement.",
+        "image": "diamond-kicks-exercise-illustration-spotebi.jpeg",
+        "gif": "diamond-kicks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Double Pulse Squat Jump",
+        "shortDescription": "Double squat to jump.",
+        "detailedDescription": "POSITION: Start in squat. MOVEMENT: Do two pulses in squat position, then explosively jump up. FOCUS: Keep chest up, push through heels during jump.",
+        "image": "double-pulse-squat-jump-exercise-illustration-spotebi.jpeg",
+        "gif": "double-pulse-squat-jump-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "HARD",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Dumbbell Swing",
+        "shortDescription": "Swing dumbbell upwards.",
+        "detailedDescription": "POSITION: Feet wide, holding dumbbell with both hands. MOVEMENT: Swing dumbbell between legs then upward to head level. FOCUS: Engage core, thrust hips forward.",
+        "image": "dumbbell-swing-exercise-illustration-spotebi.jpeg",
+        "gif": "dumbbell-swing-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "BACK",
+            "SHOULDERS"
+        ],
+        "inventory": [
+            "FLOOR",
+            "DUMBBELLS_1_5"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Dumbbell Thrusters",
+        "shortDescription": "Squat to press.",
+        "detailedDescription": "POSITION: Hold dumbbells at shoulder level, stand tall. MOVEMENT: Squat down, then explode up, pressing dumbbells overhead. FOCUS: Core engagement, full extension in press.",
+        "image": "dumbbell-thrusters-exercise-illustration-spotebi.jpeg",
+        "gif": "dumbbell-thrusters-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "SHOULDERS"
+        ],
+        "inventory": [
+            "FLOOR",
+            "DUMBBELLS_1_5"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "HARD",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "Figure 8 Squat",
+        "shortDescription": "Pass dumbbell in squat.",
+        "detailedDescription": "POSITION: Squat with a dumbbell in one hand. MOVEMENT: Pass the dumbbell through your legs in a figure-eight motion while maintaining squat. FOCUS: Engage core, steady motion.",
+        "image": "figure-8-squat-exercise-illustration-spotebi.jpeg",
+        "gif": "figure-8-squat-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR",
+            "DUMBBELLS_1_5"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Fingertip to Toe Jacks",
+        "shortDescription": "Touch fingertip to opposite toe.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Jump feet apart, touch right hand to left toe. Alternate sides with each rep. FOCUS: Engage core, keep pace brisk.",
+        "image": "fingertip-to-toe-jacks-exercise-illustration-spotebi.jpeg",
+        "gif": "fingertip-to-toe-jacks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Flutter Kick Squats",
+        "shortDescription": "Squat with flutter kicks.",
+        "detailedDescription": "POSITION: Start in squat. MOVEMENT: Rise slightly from squat, perform flutter kicks, return to squat. FOCUS: Keep chest up, engage abs during kicks.",
+        "image": "flutter-kick-squats-exercise-illustration-spotebi.jpeg",
+        "gif": "flutter-kick-squats-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "Forward Jump Shuffle",
+        "shortDescription": "Jump forward, shuffle back.",
+        "detailedDescription": "POSITION: Stand with feet together. MOVEMENT: Jump forward, then quickly shuffle backward to start. FOCUS: Explode in forward jump, fast feet in shuffle.",
+        "image": "forward-jump-shuffle-exercise-illustration-spotebi.jpeg",
+        "gif": "forward-jump-shuffle-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Frog Jumps",
+        "shortDescription": "Jump forward in squat.",
+        "detailedDescription": "POSITION: Deep squat, hands on ground. MOVEMENT: Jump forward, landing back in squat with hands touching ground. FOCUS: Use legs to propel, land softly.",
+        "image": "frog-jumps-exercise-illustration-spotebi.jpeg",
+        "gif": "frog-jumps-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "HARD",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Front and Back Lunges",
+        "shortDescription": "Lunge forward then backward.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Step forward into lunge, return to start, then step back into reverse lunge. Alternate legs. FOCUS: Keep chest up, engage core.",
+        "image": "front-and-back-lunges-exercise-illustration-spotebi.jpeg",
+        "gif": "front-and-back-lunges-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Gate Swings",
+        "shortDescription": "Open legs mid-air.",
+        "detailedDescription": "POSITION: Stand with feet together. MOVEMENT: Jump, opening legs mid-air, then land back with feet together. FOCUS: Land softly, using core for stability.",
+        "image": "gate-swings-exercise-illustration-spotebi.jpeg",
+        "gif": "gate-swings-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Good Mornings",
+        "shortDescription": "Hinge at hips, back straight.",
+        "detailedDescription": "POSITION: Stand tall, hands behind head. MOVEMENT: Hinge at the hips, keeping back straight, then return upright. FOCUS: Keep spine neutral, stretch hamstrings.",
+        "image": "good-mornings-exercise-illustration-spotebi.jpeg",
+        "gif": "good-mornings-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "BACK"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": true,
+        "duration": 60
+    },
+    {
+        "name": "Grasshopper",
+        "shortDescription": "Plank with leg cross.",
+        "detailedDescription": "POSITION: Plank position. MOVEMENT: Bring right foot towards left arm, crossing beneath body, return and alternate. FOCUS: Engage core, maintain plank stability.",
+        "image": "grasshopper-exercise-illustration-spotebi.jpeg",
+        "gif": "grasshopper-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS",
+            "BACK"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "Half Squat Jab Cross",
+        "shortDescription": "Half squat with punches.",
+        "detailedDescription": "POSITION: Half squat stance. MOVEMENT: While holding squat, perform alternating jab and cross punches. FOCUS: Engage legs and core while delivering punches.",
+        "image": "half-squat-jab-cross-exercise-illustration-spotebi.jpeg",
+        "gif": "half-squat-jab-cross-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CHEST",
+            "BACK"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 55
+    },
+    {
+        "name": "Hamstring Stretch",
+        "shortDescription": "Seated forward bend.",
+        "detailedDescription": "POSITION: Seated, legs extended. MOVEMENT: Hinge at the hips, reach forward towards feet. FOCUS: Feel stretch in hamstrings, keep back straight.",
+        "image": "hamstring-stretch-exercise-illustration-spotebi.jpeg",
+        "gif": "hamstring-stretch-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": true,
+        "duration": 60
+    },
+    {
+        "name": "Heel Beats",
+        "shortDescription": "Prone position, beat heels.",
+        "detailedDescription": "POSITION: Lay face down, arms extended forward. MOVEMENT: Raise both legs off the floor slightly and rapidly tap heels together. FOCUS: Engage glutes and hamstrings.",
+        "image": "heel-beats-exercise-illustration-spotebi.jpeg",
+        "gif": "heel-beats-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "LIGHT",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Heisman",
+        "shortDescription": "Side steps with knee drive.",
+        "detailedDescription": "POSITION: Start with feet hip-width apart. MOVEMENT: Take two side steps to the right and drive left knee up. Repeat to the left. FOCUS: Quick side movements, high knee drive.",
+        "image": "heisman-exercise-illustration-spotebi.jpeg",
+        "gif": "heisman-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "High Kicks",
+        "shortDescription": "Standing alternating leg kicks.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Kick one leg forward, alternating legs, trying to touch your hand. FOCUS: Engage core, keep leg straight during kick.",
+        "image": "high-kicks-exercise-illustration-spotebi.jpeg",
+        "gif": "high-kicks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "High Knees",
+        "shortDescription": "Run in place, knees high.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Run in place, driving knees as high as possible. FOCUS: Engage core, pump arms in rhythm with legs.",
+        "image": "high-knees-exercise-illustration-spotebi.jpeg",
+        "gif": "high-knees-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "In and Out Jacks",
+        "shortDescription": "Jumping jacks variation.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Jump into a squat, then jump back to starting position, arms moving in and out. FOCUS: Land softly, engage core throughout.",
+        "image": "in-and-out-jacks-exercise-illustration-spotebi.jpeg",
+        "gif": "in-and-out-jacks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS",
+            "CHEST"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Inner Thigh Lifts",
+        "shortDescription": "Lateral lying leg lifts.",
+        "detailedDescription": "POSITION: Lie on one side, bottom leg bent. MOVEMENT: Lift top leg straight up, then lower. FOCUS: Isolate and engage inner thigh muscles.",
+        "image": "inner-thigh-lifts-exercise-illustration-spotebi.jpeg",
+        "gif": "inner-thigh-lifts-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": true,
+        "duration": 45
+    },
+    {
+        "name": "Inner Thigh Raise to Plank",
+        "shortDescription": "Side plank leg raise.",
+        "detailedDescription": "POSITION: Side plank. MOVEMENT: Raise top leg, then lower. FOCUS: Engage core and inner thigh of the raised leg.",
+        "image": "inner-thigh-raise-to-plank-exercise-illustration-spotebi.jpeg",
+        "gif": "inner-thigh-raise-to-plank-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "Inner Thigh Squeeze and Lift",
+        "shortDescription": "Lying leg squeeze and lift.",
+        "detailedDescription": "POSITION: Lie on one side, legs extended. MOVEMENT: Lift both legs while squeezing a soft object between them. FOCUS: Engage inner thighs.",
+        "image": "inner-thigh-squeeze-and-lift-exercise-illustration-spotebi.jpeg",
+        "gif": "inner-thigh-squeeze-and-lift-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "Inverted V Plank",
+        "shortDescription": "Plank to pike position.",
+        "detailedDescription": "POSITION: Start in a plank. MOVEMENT: Push hips upwards to form an inverted V shape, then return to plank. FOCUS: Engage core and maintain straight spine.",
+        "image": "inverted-v-plank-exercise-illustration-spotebi.jpeg",
+        "gif": "inverted-v-plank-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "ABS",
+            "ARMS",
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Jumping Jacks",
+        "shortDescription": "Classic jump with arms and legs spread.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Jump, spreading legs and raising arms overhead, then return to starting position. FOCUS: Keep a brisk pace and maintain rhythm.",
+        "image": "jumping-jacks-exercise-illustration-spotebi.jpeg",
+        "gif": "jumping-jacks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ARMS",
+            "CHEST"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "LIGHT",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Jumping Lunges",
+        "shortDescription": "Alternating lunge with jump.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Lunge forward with one leg, then explosively jump, switching legs mid-air. Land in a lunge with the opposite leg forward. FOCUS: Maintain balance and land softly.",
+        "image": "jumping-lunges-exercise-illustration-spotebi.jpeg",
+        "gif": "jumping-lunges-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "HEAVY",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Jump Rope",
+        "shortDescription": "Skipping rope in place.",
+        "detailedDescription": "POSITION: Stand tall, rope behind your heels. MOVEMENT: Swing the rope overhead and jump over it with both feet. FOCUS: Stay on your toes and keep a consistent pace.",
+        "image": "jump-rope-exercise-illustration-spotebi.jpeg",
+        "gif": "jump-rope-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ARMS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Knee and Elbow Press Up",
+        "shortDescription": "Knee push-up with elbow touch.",
+        "detailedDescription": "POSITION: Start in knee push-up position. MOVEMENT: Lower chest to floor then push up. Touch left elbow with right hand and alternate. FOCUS: Keep core engaged and hips stable.",
+        "image": "knee-and-elbow-press-up-exercise-illustration-spotebi.jpeg",
+        "gif": "knee-and-elbow-press-up-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CHEST",
+            "ARMS",
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Knee Circles",
+        "shortDescription": "Rotate knees in a circle.",
+        "detailedDescription": "POSITION: Stand feet together. MOVEMENT: Bend knees slightly and draw a circle with your knees, first to the right, then to the left. FOCUS: Engage your core and keep torso stable.",
+        "image": "knee-circles-exercise-illustration-spotebi.jpeg",
+        "gif": "knee-circles-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": true,
+        "duration": 30
+    },
+    {
+        "name": "Lateral Step Pull",
+        "shortDescription": "Step sideways with arm pull.",
+        "detailedDescription": "POSITION: Stand with arms extended forward. MOVEMENT: Step to the side and pull arms back, squeezing shoulder blades. Return and repeat on other side. FOCUS: Keep core engaged.",
+        "image": "lateral-step-pull-exercise-illustration-spotebi.jpeg",
+        "gif": "lateral-step-pull-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "BACK",
+            "ARMS"
+        ],
+        "inventory": [
+            "BAND"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Lunge Front Raise",
+        "shortDescription": "Lunge with forward arm raise.",
+        "detailedDescription": "POSITION: Hold dumbbells at sides. MOVEMENT: Lunge forward while raising dumbbells in front of you to shoulder height. Return and repeat with other leg. FOCUS: Keep back straight and core engaged.",
+        "image": "lunge-front-raise-exercise-illustration-spotebi.jpeg",
+        "gif": "lunge-front-raise-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "SHOULDERS"
+        ],
+        "inventory": [
+            "DUMBBELLS_1_5",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Lunge Kicks",
+        "shortDescription": "Lunge with a kick forward.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Step back into a lunge, then explosively kick forward with the same leg. Return to start and switch legs. FOCUS: Engage glutes and core for balance.",
+        "image": "lunge-kicks-exercise-illustration-spotebi.jpeg",
+        "gif": "lunge-kicks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Lunge Punch",
+        "shortDescription": "Lunge with alternating punches.",
+        "detailedDescription": "POSITION: Stand holding dumbbells at shoulder height. MOVEMENT: Lunge forward while extending one arm in a punch. Return to start and repeat with other leg and arm. FOCUS: Engage core and rotate torso slightly.",
+        "image": "lunge-punch-exercise-illustration-spotebi.jpeg",
+        "gif": "lunge-punch-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ARMS",
+            "CHEST"
+        ],
+        "inventory": [
+            "DUMBBELLS_1_5",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Lunges",
+        "shortDescription": "Step forward into a lunge.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Step forward with one leg, lowering hips until both knees are bent at about 90°. Push back to start. Alternate legs. FOCUS: Keep chest up and core engaged.",
+        "image": "lunges-exercise-illustration-spotebi.jpeg",
+        "gif": "lunges-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Lunge Twist",
+        "shortDescription": "Lunge with a torso twist.",
+        "detailedDescription": "POSITION: Stand holding a dumbbell with both hands in front of you. MOVEMENT: Lunge forward and twist torso towards the lunging leg. Return to start and switch sides. FOCUS: Engage core throughout.",
+        "image": "lunge-twist-exercise-illustration-spotebi.jpeg",
+        "gif": "lunge-twist-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS",
+            "OBLIQUES"
+        ],
+        "inventory": [
+            "DUMBBELLS_1_5",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Lying Hamstring Curls",
+        "shortDescription": "Lying down curl with band.",
+        "detailedDescription": "POSITION: Lie face down, band looped around ankles. MOVEMENT: Curl one heel towards glute, then extend leg back out. Switch legs. FOCUS: Keep pelvis and hips grounded.",
+        "image": "lying-hamstring-curls-exercise-illustration-spotebi.jpeg",
+        "gif": "lying-hamstring-curls-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "HAMSTRINGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "BAND"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "March in Place",
+        "shortDescription": "Marching on the spot.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Lift one knee up towards chest and then alternate with the other knee. FOCUS: Engage core and move arms in conjunction with legs.",
+        "image": "march-in-place-exercise-illustration-spotebi.jpeg",
+        "gif": "march-in-place-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "LIGHT",
+        "type": "CARDIO",
+        "afterMeal": true,
+        "duration": 60
+    },
+    {
+        "name": "Modified Jumping Jacks",
+        "shortDescription": "Low impact jumping jacks.",
+        "detailedDescription": "POSITION: Stand with feet together. MOVEMENT: Step one foot out to the side and raise arms overhead. Return to start and switch sides. FOCUS: Maintain a brisk pace.",
+        "image": "modified-jumping-jacks-exercise-illustration-spotebi.jpeg",
+        "gif": "modified-jumping-jacks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ARMS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "LIGHT",
+        "type": "CARDIO",
+        "afterMeal": true,
+        "duration": 60
+    },
+    {
+        "name": "Mountain Climbers",
+        "shortDescription": "Plank position knee drives.",
+        "detailedDescription": "POSITION: Begin in plank position. MOVEMENT: Drive one knee towards chest, then switch legs in a running motion. FOCUS: Keep hips level and engage core.",
+        "image": "mountain-climbers-exercise-illustration-spotebi.jpeg",
+        "gif": "mountain-climbers-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Open the Gate",
+        "shortDescription": "Hip opener leg circles.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Lift one knee and rotate it outwards in a circular motion. Return to start and switch legs. FOCUS: Engage core for stability.",
+        "image": "open-the-gate-exercise-illustration-spotebi.jpeg",
+        "gif": "open-the-gate-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "HIPS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "LIGHT",
+        "type": "MOBILITY",
+        "afterMeal": true,
+        "duration": 30
+    },
+    {
+        "name": "Outer Thigh Stretch",
+        "shortDescription": "Seated leg cross stretch.",
+        "detailedDescription": "POSITION: Sit with legs extended. MOVEMENT: Cross one ankle over opposite knee and press down on raised knee gently. FOCUS: Feel stretch along outer thigh.",
+        "image": "outer-thigh-stretch-exercise-illustration-spotebi.jpeg",
+        "gif": "outer-thigh-stretch-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "HIPS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": true,
+        "duration": 30
+    },
+    {
+        "name": "Pistol Squat",
+        "shortDescription": "Single-leg deep squat.",
+        "detailedDescription": "POSITION: Stand on one leg, other leg extended forward. MOVEMENT: Lower into a squat on the standing leg, keeping other leg extended. Return to start. FOCUS: Engage core and glutes for balance.",
+        "image": "pistol-squat-exercise-illustration-spotebi.jpeg",
+        "gif": "pistol-squat-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "HEAVY",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Plie Squat Calf Raise",
+        "shortDescription": "Wide squat with heel lift.",
+        "detailedDescription": "POSITION: Stand with wide stance, toes turned out. MOVEMENT: Lower into a squat, then lift heels off the ground. Lower heels and return to start. FOCUS: Engage calves and glutes.",
+        "image": "plie-squat-calf-raise-exercise-illustration-spotebi.jpeg",
+        "gif": "plie-squat-calf-raise-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES",
+            "CALVES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "Quad Stretch",
+        "shortDescription": "Standing quad stretch.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Bend one knee, bringing heel towards glutes, and hold the ankle with the same side hand. Keep knees together and push hips forward. FOCUS: Feel stretch along the front of the thigh.",
+        "image": "quad-stretch-exercise-illustration-spotebi.jpeg",
+        "gif": "quad-stretch-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "QUADS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": true,
+        "duration": 30
+    },
+    {
+        "name": "Quick Feet",
+        "shortDescription": "Fast feet shuffles.",
+        "detailedDescription": "POSITION: Stand with a slight bend in knees. MOVEMENT: Rapidly tap feet on the ground in quick succession. FOCUS: Maintain a brisk pace and stay on the balls of your feet.",
+        "image": "quick-feet-exercise-illustration-spotebi.jpeg",
+        "gif": "quick-feet-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CALVES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Reverse Clamshell",
+        "shortDescription": "Lying external hip rotation.",
+        "detailedDescription": "POSITION: Lie on one side, knees bent at 90 degrees. MOVEMENT: Keeping feet together, lift the top knee as high as possible without moving the feet apart. Lower the knee. FOCUS: Target the external hip rotators.",
+        "image": "reverse-clamshell-exercise-illustration-spotebi.jpeg",
+        "gif": "reverse-clamshell-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "HIPS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 35
+    },
+    {
+        "name": "Reverse Lunge Ball Press",
+        "shortDescription": "Lunge with forward ball press.",
+        "detailedDescription": "POSITION: Hold a medicine ball at chest level. MOVEMENT: Step back into a lunge, simultaneously pressing the ball forward. Return to start. Switch legs. FOCUS: Engage core and keep balance.",
+        "image": "reverse-lunge-ball-press-exercise-illustration-spotebi.jpeg",
+        "gif": "reverse-lunge-ball-press-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "SHOULDERS",
+            "CORE"
+        ],
+        "inventory": [
+            "MEDICINE_BALL",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Reverse Lunge Shoulder Press",
+        "shortDescription": "Lunge with dumbbell overhead press.",
+        "detailedDescription": "POSITION: Hold a dumbbell in each hand at shoulder level. MOVEMENT: Step back into a lunge, simultaneously pressing the dumbbells overhead. Return to start. Switch legs. FOCUS: Engage core and keep shoulders stable.",
+        "image": "reverse-lunge-shoulder-press-exercise-illustration-spotebi.jpeg",
+        "gif": "reverse-lunge-shoulder-press-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "SHOULDERS"
+        ],
+        "inventory": [
+            "DUMBBELLS_1_5",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Rolling Squat",
+        "shortDescription": "Squat roll to stand up.",
+        "detailedDescription": "POSITION: Start seated. MOVEMENT: Roll back, bringing knees towards chest, then roll forward, using momentum to stand up into a squat position. Return to seated position. FOCUS: Use core to control the roll.",
+        "image": "rolling-squat-exercise-illustration-spotebi.jpeg",
+        "gif": "rolling-squat-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CORE",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 50
+    },
+    {
+        "name": "Run in Place",
+        "shortDescription": "Jogging on the spot.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Begin jogging, lifting knees and moving arms in rhythm. FOCUS: Maintain a brisk pace and breathe steadily.",
+        "image": "run-in-place-exercise-illustration-spotebi.jpeg",
+        "gif": "run-in-place-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CARDIOVASCULAR"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "STREET"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Shoulder Squeeze Reverse Lunge",
+        "shortDescription": "Reverse lunge with band pull apart.",
+        "detailedDescription": "POSITION: Stand holding a resistance band with both hands in front. MOVEMENT: Step back into a lunge, while simultaneously pulling the band apart. Return to start and switch sides. FOCUS: Engage shoulders and upper back.",
+        "image": "shoulder-squeeze-reverse-lunge-exercise-illustration-spotebi.jpeg",
+        "gif": "shoulder-squeeze-reverse-lunge-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "SHOULDERS",
+            "UPPER_BACK"
+        ],
+        "inventory": [
+            "BAND",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Shrimp Squat",
+        "shortDescription": "Single leg squat with a leg reach.",
+        "detailedDescription": "POSITION: Stand on one leg, other leg extended backward. MOVEMENT: Lower into a squat on the standing leg while reaching back with the other leg. Rise back to start. Switch sides. FOCUS: Balance and control.",
+        "image": "shrimp-squat-exercise-illustration-spotebi.jpeg",
+        "gif": "shrimp-squat-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CORE",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Side Lunge",
+        "shortDescription": "Lateral lunge movement.",
+        "detailedDescription": "POSITION: Stand with feet together. MOVEMENT: Step to the side, bending the leading leg while keeping the trailing leg straight. Push back to the starting position. Switch sides. FOCUS: Keep chest up and core engaged.",
+        "image": "side-lunge-exercise-illustration-spotebi.jpeg",
+        "gif": "side-lunge-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES",
+            "INNER_THIGH"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Side Lunge Band Raise",
+        "shortDescription": "Side lunge with lateral arm raise.",
+        "detailedDescription": "POSITION: Hold a resistance band with both hands. MOVEMENT: As you step into a side lunge, raise arms laterally to shoulder height. Return to start and switch sides. FOCUS: Engage shoulders and core.",
+        "image": "side-lunge-band-raise-exercise-illustration-spotebi.jpeg",
+        "gif": "side-lunge-band-raise-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "SHOULDERS",
+            "CORE"
+        ],
+        "inventory": [
+            "BAND",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Side Lunge Curl",
+        "shortDescription": "Side lunge with bicep curl.",
+        "detailedDescription": "POSITION: Hold a dumbbell in each hand by your sides. MOVEMENT: Step to the side into a lunge and perform a bicep curl. Return to start and switch sides. FOCUS: Keep elbows stationary during the curl.",
+        "image": "side-lunge-curl-exercise-illustration-spotebi.jpeg",
+        "gif": "side-lunge-curl-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "BICEPS"
+        ],
+        "inventory": [
+            "DUMBBELLS",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Side Plank Front Kick",
+        "shortDescription": "Side plank with leg kick.",
+        "detailedDescription": "POSITION: Begin in a side plank position. MOVEMENT: Lift the top leg and kick forward, then return to the starting position. FOCUS: Engage core and obliques to maintain stability.",
+        "image": "side-plank-front-kick-exercise-illustration-spotebi.jpeg",
+        "gif": "side-plank-front-kick-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "OBLIQUES",
+            "HIP_FLEXORS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 35
+    },
+    {
+        "name": "Side Plank Hip Abduction",
+        "shortDescription": "Side plank with leg lift.",
+        "detailedDescription": "POSITION: Begin in a side plank position. MOVEMENT: Lift the top leg as high as possible, then lower it without touching the bottom leg. FOCUS: Engage core and glutes.",
+        "image": "side-plank-hip-abduction-exercise-illustration-spotebi.jpeg",
+        "gif": "side-plank-hip-abduction-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "OBLIQUES",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 35
+    },
+    {
+        "name": "Side to Side Hops",
+        "shortDescription": "Lateral hopping movement.",
+        "detailedDescription": "POSITION: Start with feet together. MOVEMENT: Hop to the right and then to the left, using a light and bouncy motion. FOCUS: Stay on the balls of the feet and maintain a rhythm.",
+        "image": "side-to-side-hops-exercise-illustration-spotebi.jpeg",
+        "gif": "side-to-side-hops-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CALVES",
+            "CARDIOVASCULAR"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Side to Side Squats",
+        "shortDescription": "Lateral squat walk.",
+        "detailedDescription": "POSITION: Begin in a squat position. MOVEMENT: Step to the right, staying low, then bring left foot to meet right. Repeat to the left. FOCUS: Keep chest lifted and core engaged.",
+        "image": "side-to-side-squats-exercise-illustration-spotebi.jpeg",
+        "gif": "side-to-side-squats-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Single Leg Deadlift",
+        "shortDescription": "One-legged deadlift movement.",
+        "detailedDescription": "POSITION: Hold a dumbbell in each hand in front of you. MOVEMENT: Hinge at the hips while lifting one leg behind you. Return to start and switch legs. FOCUS: Keep back flat and core engaged.",
+        "image": "single-leg-deadlift-exercise-illustration-spotebi.jpeg",
+        "gif": "single-leg-deadlift-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "HAMSTRINGS",
+            "GLUTES",
+            "CORE"
+        ],
+        "inventory": [
+            "DUMBBELLS",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Single Leg Squat Kickback",
+        "shortDescription": "Squat with leg kickback.",
+        "detailedDescription": "POSITION: Start standing on one foot. MOVEMENT: Squat down on the standing leg and as you rise, kick the other leg back. Return to start and switch legs. FOCUS: Maintain balance and engage glutes.",
+        "image": "single-leg-squat-kickback-exercise-illustration-spotebi.jpeg",
+        "gif": "single-leg-squat-kickback-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "GLUTES",
+            "LEGS",
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 40
+    },
+    {
+        "name": "Skaters",
+        "shortDescription": "Lateral leap movement.",
+        "detailedDescription": "POSITION: Start in a shallow squat. MOVEMENT: Leap to the right, landing on the right foot, then leap to the left, landing on the left foot. FOCUS: Stay low and use arms to aid in the jump.",
+        "image": "skaters-exercise-illustration-spotebi.jpeg",
+        "gif": "skaters-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES",
+            "CARDIOVASCULAR"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Skating Windmill",
+        "shortDescription": "Lateral leap with arm rotation.",
+        "detailedDescription": "POSITION: Start in a shallow squat. MOVEMENT: Leap to the right, landing on the right foot while rotating arms in a windmill fashion. Repeat on the left side. FOCUS: Maintain rhythm and coordination.",
+        "image": "skating-windmill-exercise-illustration-spotebi.jpeg",
+        "gif": "skating-windmill-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "SHOULDERS",
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Ski Abs",
+        "shortDescription": "Jumping jack in plank position.",
+        "detailedDescription": "POSITION: Begin in a plank position. MOVEMENT: Jump feet forward to the left, then back to plank, and then jump feet forward to the right. FOCUS: Keep core engaged and maintain plank form.",
+        "image": "ski-abs-exercise-illustration-spotebi.jpeg",
+        "gif": "ski-abs-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "CARDIOVASCULAR"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Split Squat",
+        "shortDescription": "Stationary lunge movement.",
+        "detailedDescription": "POSITION: Stand with one foot forward and the other extended back. MOVEMENT: Bend both knees to lower into a lunge. Push through the front heel to rise and repeat. FOCUS: Keep chest lifted and core engaged.",
+        "image": "split-squat-exercise-illustration-spotebi.jpeg",
+        "gif": "split-squat-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Split Squat Curl",
+        "shortDescription": "Lunge with bicep curl.",
+        "detailedDescription": "POSITION: Hold a dumbbell in each hand and get into a lunge position. MOVEMENT: As you lower into the lunge, perform a bicep curl. Return to start and repeat. FOCUS: Engage biceps and legs simultaneously.",
+        "image": "split-squat-curl-exercise-illustration-spotebi.jpeg",
+        "gif": "split-squat-curl-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "BICEPS"
+        ],
+        "inventory": [
+            "DUMBBELLS",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Squat",
+        "shortDescription": "Basic squat movement.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart. MOVEMENT: Bend knees and lower hips as if sitting in a chair. Push through heels to rise back up. FOCUS: Keep knees in line with toes and chest up.",
+        "image": "squat-exercise-illustration-spotebi.jpeg",
+        "gif": "squat-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Squat Band Hip Abduction",
+        "shortDescription": "Squat with leg abduction.",
+        "detailedDescription": "POSITION: Place a resistance band around thighs and stand with feet shoulder-width apart. MOVEMENT: Lower into a squat, then lift one leg to the side. Return to start and repeat on other side. FOCUS: Keep tension on the band.",
+        "image": "squat-band-hip-abduction-exercise-illustration-spotebi.jpeg",
+        "gif": "squat-band-hip-abduction-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES",
+            "OUTER_THIGH"
+        ],
+        "inventory": [
+            "BAND",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Squat Curl",
+        "shortDescription": "Squat with bicep curl.",
+        "detailedDescription": "POSITION: Hold a dumbbell in each hand with palms facing forward. MOVEMENT: As you lower into a squat, perform a bicep curl. Stand and lower weights. FOCUS: Synchronize squat and curl movements.",
+        "image": "squat-curl-exercise-illustration-spotebi.jpeg",
+        "gif": "squat-curl-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "BICEPS"
+        ],
+        "inventory": [
+            "DUMBBELLS",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Squat Jacks",
+        "shortDescription": "Jumping jack in squat position.",
+        "detailedDescription": "POSITION: Start in a squat position. MOVEMENT: Jump feet out wide, then jump them back in. Stay in a squat the entire time. FOCUS: Keep hips low and core engaged.",
+        "image": "squat-jacks-exercise-illustration-spotebi.jpeg",
+        "gif": "squat-jacks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CARDIOVASCULAR"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "HIGH",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Squat Tricep Extension",
+        "shortDescription": "Squat with overhead tricep extension.",
+        "detailedDescription": "POSITION: Hold a dumbbell with both hands overhead. MOVEMENT: Lower into a squat while bending elbows to lower dumbbell behind the head. Extend arms and stand. FOCUS: Keep elbows close to the head.",
+        "image": "squat-tricep-extension-exercise-illustration-spotebi.jpeg",
+        "gif": "squat-tricep-extension-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "TRICEPS"
+        ],
+        "inventory": [
+            "DUMBBELLS",
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Squat Side Kick",
+        "shortDescription": "Squat followed by leg side kick.",
+        "detailedDescription": "POSITION: Stand with feet shoulder-width apart. MOVEMENT: Lower into a squat, then as you rise, kick one leg out to the side. Return to start and repeat on other side. FOCUS: Maintain balance and engage obliques.",
+        "image": "squat-side-kick-exercise-illustration-spotebi.jpeg",
+        "gif": "squat-side-kick-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES",
+            "OBLIQUES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Squat Thrust",
+        "shortDescription": "Half burpee movement.",
+        "detailedDescription": "POSITION: Stand with feet shoulder-width apart. MOVEMENT: Bend and place hands on the ground, jump feet back into plank position, then jump feet back towards hands and stand. FOCUS: Maintain a strong core.",
+        "image": "squat-thrust-exercise-illustration-spotebi.jpeg",
+        "gif": "squat-thrust-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CORE",
+            "CARDIOVASCULAR"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Standing Leg Circles",
+        "shortDescription": "Circular leg movement while standing.",
+        "detailedDescription": "POSITION: Stand with feet together. MOVEMENT: Lift one leg off the ground and create small circles, then reverse direction. Switch legs. FOCUS: Engage core and maintain balance.",
+        "image": "standing-leg-circles-exercise-illustration-spotebi.jpeg",
+        "gif": "standing-leg-circles-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Standing Mountain Climbers",
+        "shortDescription": "Upright simulated mountain climbing.",
+        "detailedDescription": "POSITION: Stand upright. MOVEMENT: Bring one knee towards chest and then quickly switch, similar to mountain climbers but while standing. FOCUS: Engage core and maintain a brisk pace.",
+        "image": "standing-mountain-climbers-exercise-illustration-spotebi.jpeg",
+        "gif": "standing-mountain-climbers-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CORE",
+            "CARDIOVASCULAR"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Step Up Crossover",
+        "shortDescription": "Step up with leg crossover.",
+        "detailedDescription": "POSITION: Stand in front of a box or bench. MOVEMENT: Step up with one foot, crossing the other leg behind in a curtsy motion. Return to starting position and repeat on the other side. FOCUS: Maintain balance and engage the glutes.",
+        "image": "step-up-crossover-exercise-illustration-spotebi.jpeg",
+        "gif": "step-up-crossover-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "BOX",
+            "BENCH"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Step Up Knee Raise",
+        "shortDescription": "Step up with a knee lift.",
+        "detailedDescription": "POSITION: Stand in front of a box or bench. MOVEMENT: Step up with one foot, lifting the opposite knee. Return to starting position and repeat on the other side. FOCUS: Engage the core and maintain balance.",
+        "image": "step-up-knee-raise-exercise-illustration-spotebi.jpeg",
+        "gif": "step-up-knee-raise-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CORE"
+        ],
+        "inventory": [
+            "BOX",
+            "BENCH"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Sumo Side Bends",
+        "shortDescription": "Wide squat with side bends.",
+        "detailedDescription": "POSITION: Stand in a wide squat stance, hands behind head. MOVEMENT: Bend to one side, trying to get the elbow towards the thigh. Return and bend to the other side. FOCUS: Engage obliques.",
+        "image": "sumo-side-bends-exercise-illustration-spotebi.jpeg",
+        "gif": "sumo-side-bends-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "OBLIQUES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Surfer Burpees",
+        "shortDescription": "Burpee into a surfer stance.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart. MOVEMENT: Lower into a burpee, then jump up into a wide stance, as if on a surfboard. Repeat, alternating the leading foot. FOCUS: Engage the core and maintain rhythm.",
+        "image": "surfer-burpees-exercise-illustration-spotebi.jpeg",
+        "gif": "surfer-burpees-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CORE",
+            "CARDIOVASCULAR"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "HIGH",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Surrender",
+        "shortDescription": "Kneeling to standing motion.",
+        "detailedDescription": "POSITION: Start kneeling on the floor. MOVEMENT: Step one foot forward and come to a standing position, then return to kneeling. Alternate leading foot. FOCUS: Engage core and glutes.",
+        "image": "surrender-exercise-illustration-spotebi.jpeg",
+        "gif": "surrender-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Touch and Hop",
+        "shortDescription": "Touch the ground then hop.",
+        "detailedDescription": "POSITION: Stand tall. MOVEMENT: Bend and touch the ground with both hands, then explode upwards in a hop. FOCUS: Engage the legs and glutes during the jump.",
+        "image": "touch-and-hop-exercise-illustration-spotebi.jpeg",
+        "gif": "touch-and-hop-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CARDIOVASCULAR"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "HIGH",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Walking Lunges",
+        "shortDescription": "Forward stepping lunges.",
+        "detailedDescription": "POSITION: Stand upright. MOVEMENT: Step forward into a lunge, ensuring knee doesn’t go past toes. Push off with the front foot, stepping into the next lunge. FOCUS: Keep the core engaged and maintain balance.",
+        "image": "walking-lunges-exercise-illustration-spotebi.jpeg",
+        "gif": "walking-lunges-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Wall Sit",
+        "shortDescription": "Isometric squat against a wall.",
+        "detailedDescription": "POSITION: Stand with back against a wall. MOVEMENT: Slide down until knees are at a 90-degree angle, as if seated. Keep the back flat against the wall. FOCUS: Engage quads and glutes.",
+        "image": "wall-sit-exercise-illustration-spotebi.jpeg",
+        "gif": "wall-sit-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "WALL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Wall Sit Plie Calf Raise",
+        "shortDescription": "Wall sit with calf raise in plie position.",
+        "detailedDescription": "POSITION: Wall sit position but with legs in a plie (wide) stance. MOVEMENT: Lift heels off the ground, then lower them. FOCUS: Engage the calves and inner thighs.",
+        "image": "wall-sit-plie-calf-raise-exercise-illustration-spotebi.jpeg",
+        "gif": "wall-sit-plie-calf-raise-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CALVES"
+        ],
+        "inventory": [
+            "WALL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Wall Sit Rotation",
+        "shortDescription": "Wall sit with torso rotation.",
+        "detailedDescription": "POSITION: Wall sit position with hands together in front. MOVEMENT: Rotate torso to one side, then the other. FOCUS: Engage the obliques and keep the back flat against the wall.",
+        "image": "wall-sit-rotation-exercise-illustration-spotebi.jpeg",
+        "gif": "wall-sit-rotation-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "OBLIQUES"
+        ],
+        "inventory": [
+            "WALL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Windshield Wipers",
+        "shortDescription": "Leg rotation exercise lying on back.",
+        "detailedDescription": "POSITION: Lie on back, arms outstretched, legs lifted at a 90-degree angle. MOVEMENT: Rotate legs to one side, near the ground, then lift and move to the other side. FOCUS: Engage the obliques.",
+        "image": "windshield-wipers-exercise-illustration-spotebi.jpeg",
+        "gif": "windshield-wipers-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "OBLIQUES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Woodchoppers",
+        "shortDescription": "Diagonal lifting motion with weight.",
+        "detailedDescription": "POSITION: Stand with feet shoulder-width, holding a dumbbell with both hands. MOVEMENT: Swing the dumbbell diagonally across the body from low to high. Return and repeat, then switch sides. FOCUS: Engage the core and obliques.",
+        "image": "woodchoppers-exercise-illustration-spotebi.jpeg",
+        "gif": "woodchoppers-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "OBLIQUES",
+            "ARMS"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "X-Jumps",
+        "shortDescription": "Jumping with limbs forming an 'X'.",
+        "detailedDescription": "POSITION: Stand with feet together. MOVEMENT: Jump into the air, spreading arms and legs into an 'X' shape. Return to start and repeat. FOCUS: Keep the movements sharp and engage the core.",
+        "image": "x-jumps-exercise-illustration-spotebi.jpeg",
+        "gif": "x-jumps-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CARDIOVASCULAR"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "HIGH",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Y-Raise",
+        "shortDescription": "Upper back exercise with dumbbells.",
+        "detailedDescription": "POSITION: Lie face down on a bench, dumbbells in each hand. MOVEMENT: Raise the dumbbells diagonally creating a 'Y' shape with arms. FOCUS: Engage the upper back and shoulders.",
+        "image": "y-raise-exercise-illustration-spotebi.jpeg",
+        "gif": "y-raise-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "UPPER BACK",
+            "SHOULDERS"
+        ],
+        "inventory": [
+            "DUMBBELL",
+            "BENCH"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Zottman Curls",
+        "shortDescription": "Bicep curl with forearm rotation.",
+        "detailedDescription": "POSITION: Stand upright holding a dumbbell in each hand. MOVEMENT: Curl the weights up, then rotate the forearms to face downwards and lower the weights. Rotate back and repeat. FOCUS: Engage biceps and forearms.",
+        "image": "zottman-curls-exercise-illustration-spotebi.jpeg",
+        "gif": "zottman-curls-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "ARMS",
+            "FOREARMS"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Deadlift",
+        "shortDescription": "Compound exercise for the posterior chain.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart, dumbbells in front. MOVEMENT: Hinge at the hips, keeping a slight bend in the knees, lower the dumbbells to the ground. Engage glutes and stand back up. FOCUS: Keep back straight, engage glutes and hamstrings.",
+        "image": "deadlift-exercise-illustration-spotebi.jpeg",
+        "gif": "deadlift-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "BACK",
+            "GLUTES"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "HEAVY",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Russian Twist",
+        "shortDescription": "Core exercise with seated rotation.",
+        "detailedDescription": "POSITION: Sit on the floor, holding a weight with both hands. Lift feet off the ground. MOVEMENT: Rotate the torso to one side, then to the other, tapping the weight on each side. FOCUS: Engage the obliques.",
+        "image": "russian-twist-exercise-illustration-spotebi.jpeg",
+        "gif": "russian-twist-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "OBLIQUES"
+        ],
+        "inventory": [
+            "WEIGHT"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Push-ups",
+        "shortDescription": "Upper body exercise.",
+        "detailedDescription": "POSITION: Begin in plank position, hands slightly wider than shoulder-width. MOVEMENT: Lower the body to the floor by bending the elbows, then push back up. FOCUS: Engage the chest and triceps.",
+        "image": "push-ups-exercise-illustration-spotebi.jpeg",
+        "gif": "push-ups-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CHEST",
+            "TRICEPS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Bicycle Crunches",
+        "shortDescription": "Core exercise with leg and arm movement.",
+        "detailedDescription": "POSITION: Lie on back, hands behind head, knees bent. MOVEMENT: Lift head and shoulders, rotate torso, bringing right elbow to left knee while extending right leg. Switch sides. FOCUS: Engage the obliques.",
+        "image": "bicycle-crunches-exercise-illustration-spotebi.jpeg",
+        "gif": "bicycle-crunches-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Tricep Dips",
+        "shortDescription": "Arm exercise using a bench or chair.",
+        "detailedDescription": "POSITION: Sit on a bench, hands next to hips. Move hips in front of the bench. MOVEMENT: Lower body by bending elbows, then push back up. FOCUS: Engage the triceps.",
+        "image": "tricep-dips-exercise-illustration-spotebi.jpeg",
+        "gif": "tricep-dips-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "TRICEPS"
+        ],
+        "inventory": [
+            "BENCH"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Dumbbell Rows",
+        "shortDescription": "Back exercise with dumbbells.",
+        "detailedDescription": "POSITION: Hold a dumbbell in each hand, hinge at hips with a slight bend in knees. MOVEMENT: Pull the dumbbells to the hip, squeezing shoulder blades. Lower and repeat. FOCUS: Engage the back muscles.",
+        "image": "dumbbell-rows-exercise-illustration-spotebi.jpeg",
+        "gif": "dumbbell-rows-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "BACK"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Leg Raises",
+        "shortDescription": "Core exercise lying on the floor.",
+        "detailedDescription": "POSITION: Lie on back, hands under hips. MOVEMENT: Lift legs to a 90-degree angle, then lower without touching the floor. Repeat. FOCUS: Engage the lower abs.",
+        "image": "leg-raises-exercise-illustration-spotebi.jpeg",
+        "gif": "leg-raises-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 30
+    },
+    {
+        "name": "Bicep Curls",
+        "shortDescription": "Arm exercise with dumbbells.",
+        "detailedDescription": "POSITION: Stand holding a dumbbell in each hand. MOVEMENT: Bend the elbows, lifting the dumbbells to the shoulders. Lower and repeat. FOCUS: Engage the biceps.",
+        "image": "bicep-curls-exercise-illustration-spotebi.jpeg",
+        "gif": "bicep-curls-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "BICEPS"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Bulgarian Split Squat Jumps",
+        "shortDescription": "Plyometric leg exercise.",
+        "detailedDescription": "POSITION: Stand a few feet from a bench, one foot on the bench behind you. MOVEMENT: Lower into a lunge, then explosively jump up. Land softly and repeat. Switch legs. FOCUS: Engage the quads and glutes.",
+        "image": "bulgarian-split-squat-jumps-illustration-spotebi.jpeg",
+        "gif": "bulgarian-split-squat-jumps-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "BENCH"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "HEAVY",
+        "type": "PLYOMETRIC",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Spiderman Planks",
+        "shortDescription": "Core exercise with knee to elbow movement.",
+        "detailedDescription": "POSITION: Start in plank position. MOVEMENT: Bring right knee towards right elbow, then return to plank. Alternate sides. FOCUS: Engage the obliques.",
+        "image": "spiderman-planks-exercise-illustration-spotebi.jpeg",
+        "gif": "spiderman-planks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Tuck Jumps",
+        "shortDescription": "Plyometric jump with knees to chest.",
+        "detailedDescription": "POSITION: Start standing with feet hip-width apart. MOVEMENT: Jump as high as possible, bringing knees to chest. Land softly and immediately jump again. FOCUS: Engage the core and use explosive power.",
+        "image": "tuck-jumps-exercise-illustration-spotebi.jpeg",
+        "gif": "tuck-jumps-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "HEAVY",
+        "type": "PLYOMETRIC",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Dumbbell Bench Press",
+        "shortDescription": "Upper body exercise using a bench and dumbbells.",
+        "detailedDescription": "POSITION: Lie on a bench, dumbbells in hand above chest. MOVEMENT: Lower dumbbells to chest, then push back up. FOCUS: Engage the chest and triceps.",
+        "image": "dumbbell-bench-press-exercise-illustration-spotebi.jpeg",
+        "gif": "dumbbell-bench-press-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CHEST",
+            "TRICEPS"
+        ],
+        "inventory": [
+            "DUMBBELL",
+            "BENCH"
+        ],
+        "location": [
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Reverse Crunches",
+        "shortDescription": "Core exercise for the lower abs.",
+        "detailedDescription": "POSITION: Lie on back, hands at sides or under hips. MOVEMENT: Lift legs and curl hips off the floor, bringing knees towards chest. Lower slowly. FOCUS: Engage the lower abs.",
+        "image": "reverse-crunches-exercise-illustration-spotebi.jpeg",
+        "gif": "reverse-crunches-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Overhead Shoulder Press",
+        "shortDescription": "Upper body exercise using dumbbells.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart, dumbbells at shoulder height. MOVEMENT: Push dumbbells up overhead, then lower. FOCUS: Engage the shoulders and triceps.",
+        "image": "overhead-shoulder-press-exercise-illustration-spotebi.jpeg",
+        "gif": "overhead-shoulder-press-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "SHOULDERS",
+            "TRICEPS"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Seated Leg Tucks",
+        "shortDescription": "Core exercise using a bench.",
+        "detailedDescription": "POSITION: Sit on the edge of a bench, lean back slightly. MOVEMENT: Extend legs straight out, then pull knees to chest. Extend and repeat. FOCUS: Engage the core.",
+        "image": "seated-leg-tucks-exercise-illustration-spotebi.jpeg",
+        "gif": "seated-leg-tucks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "BENCH"
+        ],
+        "location": [
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Single Leg Glute Bridge",
+        "shortDescription": "Glute exercise with one leg lifted.",
+        "detailedDescription": "POSITION: Lie on back, one foot flat on the floor, one leg extended straight. MOVEMENT: Press through the foot on the floor, lift hips, squeezing glutes. Lower and repeat. FOCUS: Engage the glutes and hamstrings.",
+        "image": "single-leg-glute-bridge-exercise-illustration-spotebi.jpeg",
+        "gif": "single-leg-glute-bridge-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "GLUTES",
+            "HAMSTRINGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Dumbbell Flyes",
+        "shortDescription": "Chest exercise using dumbbells on a bench.",
+        "detailedDescription": "POSITION: Lie on a bench, dumbbells in hand extended above chest. MOVEMENT: Open arms wide, slight bend in elbows, then squeeze chest to bring dumbbells back together. FOCUS: Engage the chest muscles.",
+        "image": "dumbbell-flyes-exercise-illustration-spotebi.jpeg",
+        "gif": "dumbbell-flyes-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CHEST"
+        ],
+        "inventory": [
+            "DUMBBELL",
+            "BENCH"
+        ],
+        "location": [
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Pike Push-ups",
+        "shortDescription": "Upper body exercise targeting the shoulders.",
+        "detailedDescription": "POSITION: Start in a pike position, hips up, head looking back. MOVEMENT: Lower head towards the floor, then push back up. FOCUS: Engage the shoulders.",
+        "image": "pike-push-ups-exercise-illustration-spotebi.jpeg",
+        "gif": "pike-push-ups-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "SHOULDERS",
+            "TRICEPS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Lateral Raises",
+        "shortDescription": "Shoulder exercise using dumbbells.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart, dumbbells at sides. MOVEMENT: Lift arms out to the sides, up to shoulder height, then lower. FOCUS: Engage the shoulder muscles.",
+        "image": "lateral-raises-exercise-illustration-spotebi.jpeg",
+        "gif": "lateral-raises-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "SHOULDERS"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Plank Shoulder Taps",
+        "shortDescription": "Plank variation targeting the core and shoulders.",
+        "detailedDescription": "POSITION: Start in a plank position. MOVEMENT: Tap right hand to left shoulder, then left hand to right shoulder. FOCUS: Engage the core, keeping the hips stable.",
+        "image": "plank-shoulder-taps-exercise-illustration-spotebi.jpeg",
+        "gif": "plank-shoulder-taps-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "SHOULDERS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Russian Twists",
+        "shortDescription": "Seated core exercise with a twisting motion.",
+        "detailedDescription": "POSITION: Sit on the floor, lean back slightly, lift feet off ground. HOLD: a weight or medicine ball. MOVEMENT: Rotate torso to the right, touch the weight to the ground, then rotate to the left. FOCUS: Engage the obliques.",
+        "image": "russian-twists-exercise-illustration-spotebi.jpeg",
+        "gif": "russian-twists-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "WEIGHT"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Bicep Curls",
+        "shortDescription": "Arm exercise using dumbbells.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart, holding dumbbells. MOVEMENT: Curl the dumbbells towards the shoulders, then lower. FOCUS: Engage the biceps.",
+        "image": "bicep-curls-exercise-illustration-spotebi.jpeg",
+        "gif": "bicep-curls-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "ARMS"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Tricep Dips",
+        "shortDescription": "Arm exercise using a bench.",
+        "detailedDescription": "POSITION: Sit on a bench, hands next to hips. MOVE: Lift body off, lower by bending elbows, then push up. FOCUS: Engage the triceps.",
+        "image": "tricep-dips-exercise-illustration-spotebi.jpeg",
+        "gif": "tricep-dips-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "ARMS"
+        ],
+        "inventory": [
+            "BENCH"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Leg Raises",
+        "shortDescription": "Core exercise for lower abs.",
+        "detailedDescription": "POSITION: Lie on back, hands under hips. MOVEMENT: Lift legs straight up, then lower without touching the floor. FOCUS: Engage the lower abs.",
+        "image": "leg-raises-exercise-illustration-spotebi.jpeg",
+        "gif": "leg-raises-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Bicycle Crunches",
+        "shortDescription": "Core exercise targeting obliques.",
+        "detailedDescription": "POSITION: Lie on back, hands behind head. MOVEMENT: Bring right elbow to left knee, then switch to left elbow to right knee. FOCUS: Engage the obliques.",
+        "image": "bicycle-crunches-exercise-illustration-spotebi.jpeg",
+        "gif": "bicycle-crunches-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Deadlifts",
+        "shortDescription": "Compound exercise using barbell.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart, barbell in front. MOVEMENT: Bend at hips and knees, grip barbell, stand up straight, then lower. FOCUS: Engage back, legs, and core.",
+        "image": "deadlifts-exercise-illustration-spotebi.jpeg",
+        "gif": "deadlifts-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "BACK",
+            "LEGS",
+            "CORE"
+        ],
+        "inventory": [
+            "BARBELL"
+        ],
+        "location": [
+            "GYM"
+        ],
+        "load": "HEAVY",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Push-ups",
+        "shortDescription": "Upper body compound exercise.",
+        "detailedDescription": "POSITION: Begin in plank position. MOVEMENT: Lower body to the floor by bending elbows, then push up. FOCUS: Engage chest, triceps, and core.",
+        "image": "push-ups-exercise-illustration-spotebi.jpeg",
+        "gif": "push-ups-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CHEST",
+            "ARMS",
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Renegade Rows",
+        "shortDescription": "Plank exercise with rowing motion using dumbbells.",
+        "detailedDescription": "POSITION: Plank position, each hand on a dumbbell. MOVEMENT: Row one dumbbell to hip while balancing on the other, switch sides. FOCUS: Engage back, arms, and core.",
+        "image": "renegade-rows-exercise-illustration-spotebi.jpeg",
+        "gif": "renegade-rows-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "BACK",
+            "ARMS",
+            "CORE"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Front Raises",
+        "shortDescription": "Shoulder exercise using dumbbells.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart, holding dumbbells. MOVEMENT: Raise dumbbells in front of you up to shoulder height, then lower. FOCUS: Engage the shoulders.",
+        "image": "front-raises-exercise-illustration-spotebi.jpeg",
+        "gif": "front-raises-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "SHOULDERS"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Mountain Climber Twists",
+        "shortDescription": "Plank variation for core.",
+        "detailedDescription": "POSITION: Start in a plank position. MOVEMENT: Bring right knee towards left elbow, then switch to left knee to right elbow. FOCUS: Engage the obliques.",
+        "image": "mountain-climber-twists-exercise-illustration-spotebi.jpeg",
+        "gif": "mountain-climber-twists-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Squat to Overhead Press",
+        "shortDescription": "Compound exercise using dumbbells.",
+        "detailedDescription": "POSITION: Stand with dumbbells at shoulder height. MOVEMENT: Squat down, then press dumbbells overhead as you stand. FOCUS: Engage legs, shoulders, and core.",
+        "image": "squat-to-overhead-press-exercise-illustration-spotebi.jpeg",
+        "gif": "squat-to-overhead-press-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "SHOULDERS",
+            "CORE"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Plank Knee Tucks",
+        "shortDescription": "Plank variation for core and hip flexors.",
+        "detailedDescription": "POSITION: Start in a plank position. MOVEMENT: Bring knees towards chest, one at a time, alternating. FOCUS: Engage the core and hip flexors.",
+        "image": "plank-knee-tucks-exercise-illustration-spotebi.jpeg",
+        "gif": "plank-knee-tucks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "HIP FLEXORS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Side Plank Leg Lifts",
+        "shortDescription": "Side plank variation for obliques and hip abductors.",
+        "detailedDescription": "POSITION: Start in a side plank position. MOVEMENT: Lift top leg as high as comfortable, then lower. FOCUS: Engage the obliques and hip abductors.",
+        "image": "side-plank-leg-lifts-exercise-illustration-spotebi.jpeg",
+        "gif": "side-plank-leg-lifts-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "HIP ABDUCTORS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Burpee Push-ups",
+        "shortDescription": "Combines burpees and push-ups for full-body workout.",
+        "detailedDescription": "POSITION: Start standing, then squat down, kick feet back into a push-up position. MOVEMENT: Do a push-up, jump feet back to squat position, then explode up into a jump. FOCUS: Engage the whole body for a full workout.",
+        "image": "burpee-push-ups-exercise-illustration-spotebi.jpeg",
+        "gif": "burpee-push-ups-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "FULL BODY"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "HEAVY",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Seated Russian Twists",
+        "shortDescription": "Seated core exercise with twisting motion.",
+        "detailedDescription": "POSITION: Sit on the floor, knees bent, lean back slightly. HOLD: a weight or medicine ball. MOVEMENT: Rotate torso to the right, touch the weight to the ground, then rotate to the left. FOCUS: Engage the obliques.",
+        "image": "seated-russian-twists-exercise-illustration-spotebi.jpeg",
+        "gif": "seated-russian-twists-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "WEIGHT"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Wall Sit Leg Lifts",
+        "shortDescription": "Leg exercise with a wall sit position.",
+        "detailedDescription": "POSITION: Sit against a wall with knees bent at 90 degrees. MOVEMENT: Lift one leg as high as comfortable, then lower. Switch legs. FOCUS: Engage the quadriceps.",
+        "image": "wall-sit-leg-lifts-exercise-illustration-spotebi.jpeg",
+        "gif": "wall-sit-leg-lifts-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "WALL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Plank Hip Dips",
+        "shortDescription": "Plank variation for obliques and core.",
+        "detailedDescription": "POSITION: Start in a plank position. MOVEMENT: Dip hips to the right, then to the left, alternating. FOCUS: Engage the obliques and core.",
+        "image": "plank-hip-dips-exercise-illustration-spotebi.jpeg",
+        "gif": "plank-hip-dips-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "OBLIQUES"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Chest Press with Resistance Band",
+        "shortDescription": "Chest exercise using a resistance band.",
+        "detailedDescription": "POSITION: Attach a resistance band to a sturdy anchor, hold handles at chest height. MOVEMENT: Push handles forward, then return. FOCUS: Engage the chest and triceps.",
+        "image": "chest-press-resistance-band-exercise-illustration-spotebi.jpeg",
+        "gif": "chest-press-resistance-band-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CHEST",
+            "TRICEPS"
+        ],
+        "inventory": [
+            "TAPE"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Alternating Plank Knee Tucks",
+        "shortDescription": "Plank variation for core and hip flexors.",
+        "detailedDescription": "POSITION: Start in a plank position. MOVEMENT: Bring right knee towards chest, then switch to left knee. FOCUS: Engage the core and hip flexors.",
+        "image": "alternating-plank-knee-tucks-exercise-illustration-spotebi.jpeg",
+        "gif": "alternating-plank-knee-tucks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "HIP FLEXORS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Reverse Plank",
+        "shortDescription": "Full body exercise for core and upper body.",
+        "detailedDescription": "POSITION: Sit with legs extended, hands behind hips, fingers pointing forward. MOVEMENT: Lift hips off the ground to form a reverse plank, then lower. FOCUS: Engage the core and upper body.",
+        "image": "reverse-plank-exercise-illustration-spotebi.jpeg",
+        "gif": "reverse-plank-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "UPPER BODY"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Lying Leg Curl with Resistance Band",
+        "shortDescription": "Hamstring exercise using a resistance band.",
+        "detailedDescription": "POSITION: Attach a resistance band to a sturdy anchor, lie face down, hold handles at ankle height. MOVEMENT: Curl legs up, then lower. FOCUS: Engage the hamstrings.",
+        "image": "lying-leg-curl-resistance-band-exercise-illustration-spotebi.jpeg",
+        "gif": "lying-leg-curl-resistance-band-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "HAMSTRINGS"
+        ],
+        "inventory": [
+            "TAPE"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Seated Tricep Dips",
+        "shortDescription": "Arm exercise using a bench or chair.",
+        "detailedDescription": "POSITION: Sit on a bench or chair, hands next to hips. MOVEMENT: Lift body off, lower by bending elbows, then push up. FOCUS: Engage the triceps.",
+        "image": "seated-tricep-dips-exercise-illustration-spotebi.jpeg",
+        "gif": "seated-tricep-dips-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "ARMS"
+        ],
+        "inventory": [
+            "BENCH"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Bicycle Crunch Leg Drops",
+        "shortDescription": "Core exercise targeting obliques and lower abs.",
+        "detailedDescription": "POSITION: Lie on back, hands behind head. MOVEMENT: Bring right elbow to left knee, then lower both. Switch to left elbow to right knee. FOCUS: Engage obliques and lower abs.",
+        "image": "bicycle-crunch-leg-drops-exercise-illustration-spotebi.jpeg",
+        "gif": "bicycle-crunch-leg-drops-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "OBLIQUES",
+            "LOWER ABS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Leg Raises with Hip Thrust",
+        "shortDescription": "Core exercise for lower abs and hip flexors.",
+        "detailedDescription": "POSITION: Lie on back, hands under hips. MOVEMENT: Lift legs straight up, then perform a hip thrust, lowering legs slightly, then return to start. FOCUS: Engage lower abs and hip flexors.",
+        "image": "leg-raises-hip-thrust-exercise-illustration-spotebi.jpeg",
+        "gif": "leg-raises-hip-thrust-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "LOWER ABS",
+            "HIP FLEXORS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Dumbbell Rows",
+        "shortDescription": "Back exercise using dumbbells.",
+        "detailedDescription": "POSITION: Stand with feet hip-width apart, dumbbells in hands. MOVEMENT: Bend at hips and knees, lean forward, then pull dumbbells towards hips. FOCUS: Engage the back muscles.",
+        "image": "dumbbell-rows-exercise-illustration-spotebi.jpeg",
+        "gif": "dumbbell-rows-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "BACK"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Plank Jacks",
+        "shortDescription": "Plank variation for core and cardio.",
+        "detailedDescription": "POSITION: Start in a plank position. MOVEMENT: Jump feet wide, then back together. FOCUS: Engage the core and maintain a steady pace.",
+        "image": "plank-jacks-exercise-illustration-spotebi.jpeg",
+        "gif": "plank-jacks-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Cobra Stretch",
+        "shortDescription": "Stretching exercise for the lower back.",
+        "detailedDescription": "POSITION: Lie face down with palms on the floor under shoulders. MOVEMENT: Push up, arching back, keeping hips on the ground. FOCUS: Stretch the lower back.",
+        "image": "cobra-stretch-exercise-illustration-spotebi.jpeg",
+        "gif": "cobra-stretch-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "BACK"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Front Plank",
+        "shortDescription": "Core exercise for stability.",
+        "detailedDescription": "POSITION: Start in a plank position, forearms on the ground. HOLD: Maintain a straight line from head to heels. FOCUS: Engage the core and hold a stable position.",
+        "image": "front-plank-exercise-illustration-spotebi.jpeg",
+        "gif": "front-plank-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Reverse Plank Leg Lifts",
+        "shortDescription": "Full body exercise for core and hip flexors.",
+        "detailedDescription": "POSITION: Sit with legs extended, hands behind hips, fingers pointing forward. MOVEMENT: Lift hips off the ground, then lift one leg at a time. FOCUS: Engage the core and hip flexors.",
+        "image": "reverse-plank-leg-lifts-exercise-illustration-spotebi.jpeg",
+        "gif": "reverse-plank-leg-lifts-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE",
+            "HIP FLEXORS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Sumo Deadlifts",
+        "shortDescription": "Compound exercise using a barbell.",
+        "detailedDescription": "POSITION: Stand with feet wide, toes pointed out, barbell in front. MOVEMENT: Bend at hips and knees, grip barbell, stand up straight, then lower. FOCUS: Engage back, legs, and core.",
+        "image": "sumo-deadlifts-exercise-illustration-spotebi.jpeg",
+        "gif": "sumo-deadlifts-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "BACK",
+            "LEGS",
+            "CORE"
+        ],
+        "inventory": [
+            "BARBELL"
+        ],
+        "location": [
+            "GYM"
+        ],
+        "load": "HEAVY",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Lateral Leg Raises",
+        "shortDescription": "Leg exercise for outer thighs.",
+        "detailedDescription": "POSITION: Lie on one side, legs straight. MOVEMENT: Lift top leg as high as comfortable, then lower. FOCUS: Engage the outer thigh.",
+        "image": "lateral-leg-raises-exercise-illustration-spotebi.jpeg",
+        "gif": "lateral-leg-raises-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "OUTER THIGHS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Dumbbell Lunges",
+        "shortDescription": "Leg exercise using dumbbells.",
+        "detailedDescription": "POSITION: Stand with dumbbells in hands, step one foot back into a lunge. MOVEMENT: Lower back knee toward the ground, then return. FOCUS: Engage the legs and glutes.",
+        "image": "dumbbell-lunges-exercise-illustration-spotebi.jpeg",
+        "gif": "dumbbell-lunges-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Knee Push-ups",
+        "shortDescription": "Modified push-up for upper body strength.",
+        "detailedDescription": "POSITION: Begin in plank position on knees. MOVEMENT: Lower body to the floor by bending elbows, then push up. FOCUS: Engage chest, triceps, and core.",
+        "image": "knee-push-ups-exercise-illustration-spotebi.jpeg",
+        "gif": "knee-push-ups-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CHEST",
+            "ARMS",
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Low Plank",
+        "shortDescription": "Core exercise for stability.",
+        "detailedDescription": "POSITION: Start in a forearm plank position. HOLD: Maintain a straight line from head to heels. FOCUS: Engage the core and hold a stable position.",
+        "image": "low-plank-exercise-illustration-spotebi.jpeg",
+        "gif": "low-plank-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Leg Swings",
+        "shortDescription": "Dynamic leg exercise for flexibility.",
+        "detailedDescription": "POSITION: Stand next to a support, hold for balance. MOVEMENT: Swing one leg forward and backward. Switch legs. FOCUS: Engage the leg muscles and improve flexibility.",
+        "image": "leg-swings-exercise-illustration-spotebi.jpeg",
+        "gif": "leg-swings-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRETCH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Tricep Dips with Bench",
+        "shortDescription": "Arm exercise using a bench or chair.",
+        "detailedDescription": "POSITION: Sit on a bench or chair, hands next to hips. MOVEMENT: Lift body off, lower by bending elbows, then push up. FOCUS: Engage the triceps.",
+        "image": "tricep-dips-with-bench-exercise-illustration-spotebi.jpeg",
+        "gif": "tricep-dips-with-bench-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "ARMS"
+        ],
+        "inventory": [
+            "BENCH"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Single Leg Deadlift with Dumbbell",
+        "shortDescription": "Leg and core exercise with dumbbell.",
+        "detailedDescription": "POSITION: Stand with dumbbell in one hand. MOVEMENT: Hinge at hips, lift one leg straight back, lower dumbbell, then return. FOCUS: Engage the legs, glutes, and core.",
+        "image": "single-leg-deadlift-dumbbell-exercise-illustration-spotebi.jpeg",
+        "gif": "single-leg-deadlift-dumbbell-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "GLUTES",
+            "CORE"
+        ],
+        "inventory": [
+            "DUMBBELL"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Russian Twists",
+        "shortDescription": "Seated core exercise with twisting motion.",
+        "detailedDescription": "POSITION: Sit on the floor, knees bent, lean back slightly. HOLD: a weight or medicine ball. MOVEMENT: Rotate torso to the right, touch the weight to the ground, then rotate to the left. FOCUS: Engage the obliques.",
+        "image": "russian-twists-exercise-illustration-spotebi.jpeg",
+        "gif": "russian-twists-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CORE"
+        ],
+        "inventory": [
+            "WEIGHT"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Box Jumps",
+        "shortDescription": "Plyometric exercise for explosive power.",
+        "detailedDescription": "POSITION: Stand in front of a sturdy box or platform. MOVEMENT: Jump onto the box with both feet, then step or jump back down. FOCUS: Engage the legs and explosive power.",
+        "image": "box-jumps-exercise-illustration-spotebi.jpeg",
+        "gif": "box-jumps-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS"
+        ],
+        "inventory": [
+            "BOX"
+        ],
+        "location": [
+            "GYM"
+        ],
+        "load": "HEAVY",
+        "type": "CARDIO",
+        "afterMeal": false,
+        "duration": 45
+    },
+    {
+        "name": "Side Leg Raises with Resistance Band",
+        "shortDescription": "Leg exercise using a resistance band.",
+        "detailedDescription": "POSITION: Attach a resistance band to a sturdy anchor, stand sideways, hold handles at ankle height. MOVEMENT: Lift top leg to the side, then lower. Switch sides. FOCUS: Engage the outer thigh.",
+        "image": "side-leg-raises-resistance-band-exercise-illustration-spotebi.jpeg",
+        "gif": "side-leg-raises-resistance-band-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "LEGS",
+            "OUTER THIGHS"
+        ],
+        "inventory": [
+            "TAPE"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "MEDIUM",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    },
+    {
+        "name": "Kneeling Push-ups",
+        "shortDescription": "Modified push-up for upper body strength.",
+        "detailedDescription": "POSITION: Begin in plank position on knees. MOVEMENT: Lower body to the floor by bending elbows, then push up. FOCUS: Engage chest, triceps, and core.",
+        "image": "kneeling-push-ups-exercise-illustration-spotebi.jpeg",
+        "gif": "kneeling-push-ups-exercise-animation-spotebi.gif",
+        "muscleGroup": [
+            "CHEST",
+            "ARMS",
+            "CORE"
+        ],
+        "inventory": [
+            "FLOOR"
+        ],
+        "location": [
+            "HOME",
+            "GYM"
+        ],
+        "load": "LIGHT",
+        "type": "STRENGTH",
+        "afterMeal": false,
+        "duration": 60
+    }
+]

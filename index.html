@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Workout Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Workout Generator</h1>
+    <label for="duration">Duration (minutes):</label>
+    <input type="number" id="duration" min="1" max="60" value="10">
+
+    <label for="exerciseCount">Exercise Count:</label>
+    <input type="number" id="exerciseCount" min="1" max="30" value="10">
+
+    <label for="location">Location:</label>
+    <select id="location">
+        <option value="home">Home</option>
+        <option value="street">Street</option>
+    </select>
+
+    <button id="startButton">START</button>
+
+    <div id="exerciseContainer">
+        <h2>Exercise 1</h2>
+        <p id="exerciseDescription">Description of Exercise 1</p>
+        <img id="exerciseImage" src="squats1.jpeg" alt="Exercise 1">
+    </div>
+
+    <div id="timerContainer">
+        <h2>Time Remaining: <span id="timer">00:00</span></h2>
+    </div>
+
+    <div id="congratsContainer">
+        <h2>Congratulations! Well Done!</h2>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
